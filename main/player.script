@@ -5,7 +5,7 @@
 local MAX_GROUND_SPEED = 100
 local MAX_AIR_SPEED = 80
 -- max fall speed
-local MAX_FALL_SPEED = 10
+local MAX_FALL_SPEED = 500
 
 -- gravity pulling the player down in pixel units
 local GRAVITY = -500
